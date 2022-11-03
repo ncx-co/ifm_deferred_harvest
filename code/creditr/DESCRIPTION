@@ -1,0 +1,27 @@
+Package: creditr
+Title: Generate natural capital credits
+Version: 1.0.0
+Authors@R: 
+    person("Branson", "Fox", , "branson.fox@ncx.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-4361-2811"))
+Description: Converts carbon posteriors to merchantable credits using a series of deductions for harvested wood products, leakage and posterior uncertainty.
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: xz
+Imports:
+    assertthat,
+    purrr,
+    dplyr,
+    tibble
+Suggests:
+    knitr,
+    vroom,
+    rmarkdown,
+    roxygen2,
+    testthat (>= 3.0.0)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+VignetteBuilder: knitr
+Depends: 
+    R (>= 2.10)

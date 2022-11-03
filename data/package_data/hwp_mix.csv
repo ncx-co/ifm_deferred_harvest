@@ -1,0 +1,793 @@
+supersection,product,mix_prop
+Allegheny & North Cumberland Mountains,softwood_lumber,0.01622650185
+Allegheny & North Cumberland Mountains,hardwood_lumber,0.30944421495
+Allegheny & North Cumberland Mountains,plywood,6.99417e-05
+Allegheny & North Cumberland Mountains,osb,0.05490594225
+Allegheny & North Cumberland Mountains,nonstructural_panels,0.0206714106
+Allegheny & North Cumberland Mountains,misc,0.01522098765
+Allegheny & North Cumberland Mountains,paper,0.033461001
+Allegheny & North Cumberland Mountains,slash,0.25
+Allegheny & North Cumberland Mountains,residue,0.3
+Andirondacks & Green Mountains,softwood_lumber,0.104516184495484
+Andirondacks & Green Mountains,hardwood_lumber,0.105915569294084
+Andirondacks & Green Mountains,plywood,0.00716490944283509
+Andirondacks & Green Mountains,osb,0
+Andirondacks & Green Mountains,nonstructural_panels,0.00497196044502804
+Andirondacks & Green Mountains,misc,0.000698969249301031
+Andirondacks & Green Mountains,paper,0.226732407073268
+Andirondacks & Green Mountains,slash,0.25
+Andirondacks & Green Mountains,residue,0.3
+Arizona-Nevada Mountains,softwood_lumber,0.45
+Arizona-Nevada Mountains,hardwood_lumber,0
+Arizona-Nevada Mountains,plywood,0
+Arizona-Nevada Mountains,osb,0
+Arizona-Nevada Mountains,nonstructural_panels,0
+Arizona-Nevada Mountains,misc,0
+Arizona-Nevada Mountains,paper,0
+Arizona-Nevada Mountains,slash,0.25
+Arizona-Nevada Mountains,residue,0.3
+Aroostook-Maine-New Brunswick Hills and Lowlands,softwood_lumber,0.18045518895
+Aroostook-Maine-New Brunswick Hills and Lowlands,hardwood_lumber,0.04414655205
+Aroostook-Maine-New Brunswick Hills and Lowlands,plywood,0
+Aroostook-Maine-New Brunswick Hills and Lowlands,osb,0
+Aroostook-Maine-New Brunswick Hills and Lowlands,nonstructural_panels,0
+Aroostook-Maine-New Brunswick Hills and Lowlands,misc,0
+Aroostook-Maine-New Brunswick Hills and Lowlands,paper,0.225398259
+Aroostook-Maine-New Brunswick Hills and Lowlands,slash,0.25
+Aroostook-Maine-New Brunswick Hills and Lowlands,residue,0.3
+Atlantic Coastal Plain & Flatwoods,softwood_lumber,0.314945565029891
+Atlantic Coastal Plain & Flatwoods,hardwood_lumber,0.0359079264718159
+Atlantic Coastal Plain & Flatwoods,plywood,0.0311478732622957
+Atlantic Coastal Plain & Flatwoods,osb,0.0121043650742087
+Atlantic Coastal Plain & Flatwoods,nonstructural_panels,0.00835627141671254
+Atlantic Coastal Plain & Flatwoods,misc,0.0204719211409438
+Atlantic Coastal Plain & Flatwoods,paper,0.0270660776041322
+Atlantic Coastal Plain & Flatwoods,slash,0.25
+Atlantic Coastal Plain & Flatwoods,residue,0.3
+Bitterroot Mountains,softwood_lumber,0.383742666554632
+Bitterroot Mountains,hardwood_lumber,6.70315499396716e-06
+Bitterroot Mountains,plywood,0.0453662662091704
+Bitterroot Mountains,osb,0
+Bitterroot Mountains,nonstructural_panels,0.000966792599129887
+Bitterroot Mountains,misc,0.010892236940197
+Bitterroot Mountains,paper,0.0090253345418772
+Bitterroot Mountains,slash,0.25
+Bitterroot Mountains,residue,0.3
+Blue Mountains,softwood_lumber,0.348135893651864
+Blue Mountains,hardwood_lumber,0.0010755985489244
+Blue Mountains,plywood,0.0640876949359123
+Blue Mountains,osb,0
+Blue Mountains,nonstructural_panels,0.000194413049805587
+Blue Mountains,misc,0.00183638519816361
+Blue Mountains,paper,0.03467001461533
+Blue Mountains,slash,0.25
+Blue Mountains,residue,0.3
+Blue Ridge Mountains,softwood_lumber,0.138625237211375
+Blue Ridge Mountains,hardwood_lumber,0.239163872160836
+Blue Ridge Mountains,plywood,0.00310334039689666
+Blue Ridge Mountains,osb,0.0100981682899018
+Blue Ridge Mountains,nonstructural_panels,0.0493897175506103
+Blue Ridge Mountains,misc,0.00779192234220808
+Blue Ridge Mountains,paper,0.00182774204817226
+Blue Ridge Mountains,slash,0.25
+Blue Ridge Mountains,residue,0.3
+Booneville Basin,softwood_lumber,0.2913078888
+Booneville Basin,hardwood_lumber,0.0683963334
+Booneville Basin,plywood,0
+Booneville Basin,osb,0
+Booneville Basin,nonstructural_panels,0.0090295776
+Booneville Basin,misc,0.0812662002
+Booneville Basin,paper,0
+Booneville Basin,slash,0.25
+Booneville Basin,residue,0.3
+California Central Valley Basin,softwood_lumber,0.439496946460503
+California Central Valley Basin,hardwood_lumber,0
+California Central Valley Basin,plywood,0.00662384654337615
+California Central Valley Basin,osb,0
+California Central Valley Basin,nonstructural_panels,0
+California Central Valley Basin,misc,0.00139637294860363
+California Central Valley Basin,paper,0.00248283404751717
+California Central Valley Basin,slash,0.25
+California Central Valley Basin,residue,0.3
+Catskill Mountains,softwood_lumber,0.108205125408205
+Catskill Mountains,hardwood_lumber,0.213926281413926
+Catskill Mountains,plywood,0
+Catskill Mountains,osb,0.0259376395759376
+Catskill Mountains,nonstructural_panels,0.00436768425436769
+Catskill Mountains,misc,0.000823249350823249
+Catskill Mountains,paper,0.09674001999674
+Catskill Mountains,slash,0.25
+Catskill Mountains,residue,0.3
+Central California Coast,softwood_lumber,0.436801863468959
+Central California Coast,hardwood_lumber,9.689984997093e-06
+Central California Coast,plywood,0.00843381764746986
+Central California Coast,osb,0
+Central California Coast,nonstructural_panels,0.00109947869967016
+Central California Coast,misc,0.000426518099872045
+Central California Coast,paper,0.00322863209903141
+Central California Coast,slash,0.25
+Central California Coast,residue,0.3
+Central Great Plains,softwood_lumber,0.0853828334146172
+Central Great Plains,hardwood_lumber,0.359267659290732
+Central Great Plains,plywood,0
+Central Great Plains,osb,0
+Central Great Plains,nonstructural_panels,0
+Central Great Plains,misc,0.00534950729465049
+Central Great Plains,paper,0
+Central Great Plains,slash,0.25
+Central Great Plains,residue,0.3
+Central Interior Broadleaf Forest Central Till Plains,softwood_lumber,0.000519643349480357
+Central Interior Broadleaf Forest Central Till Plains,hardwood_lumber,0.432508486517492
+Central Interior Broadleaf Forest Central Till Plains,plywood,0
+Central Interior Broadleaf Forest Central Till Plains,osb,0
+Central Interior Broadleaf Forest Central Till Plains,nonstructural_panels,0.00596821454403179
+Central Interior Broadleaf Forest Central Till Plains,misc,0.00967668344032332
+Central Interior Broadleaf Forest Central Till Plains,paper,0.00132697214867303
+Central Interior Broadleaf Forest Central Till Plains,slash,0.25
+Central Interior Broadleaf Forest Central Till Plains,residue,0.3
+Central Interior Broadleaf Forest Eastern Low Plateau,softwood_lumber,0.0361297484638703
+Central Interior Broadleaf Forest Eastern Low Plateau,hardwood_lumber,0.377712201672288
+Central Interior Broadleaf Forest Eastern Low Plateau,plywood,0.000447142949552857
+Central Interior Broadleaf Forest Eastern Low Plateau,osb,0
+Central Interior Broadleaf Forest Eastern Low Plateau,nonstructural_panels,0.0115726823884273
+Central Interior Broadleaf Forest Eastern Low Plateau,misc,0.00868369544131631
+Central Interior Broadleaf Forest Eastern Low Plateau,paper,0.0154545290845455
+Central Interior Broadleaf Forest Eastern Low Plateau,slash,0.25
+Central Interior Broadleaf Forest Eastern Low Plateau,residue,0.3
+Central Interior Broadleaf Forest Ozark Highlands,softwood_lumber,0.0280153134
+Central Interior Broadleaf Forest Ozark Highlands,hardwood_lumber,0.3858002388
+Central Interior Broadleaf Forest Ozark Highlands,plywood,0
+Central Interior Broadleaf Forest Ozark Highlands,osb,0
+Central Interior Broadleaf Forest Ozark Highlands,nonstructural_panels,0.0055866474
+Central Interior Broadleaf Forest Ozark Highlands,misc,0.0191237031
+Central Interior Broadleaf Forest Ozark Highlands,paper,0.0114740973
+Central Interior Broadleaf Forest Ozark Highlands,slash,0.25
+Central Interior Broadleaf Forest Ozark Highlands,residue,0.3
+Central Interior Broadleaf Forest Western Low Plateau,softwood_lumber,0.00677409255
+Central Interior Broadleaf Forest Western Low Plateau,hardwood_lumber,0.3789342981
+Central Interior Broadleaf Forest Western Low Plateau,plywood,0
+Central Interior Broadleaf Forest Western Low Plateau,osb,0
+Central Interior Broadleaf Forest Western Low Plateau,nonstructural_panels,0.01036815975
+Central Interior Broadleaf Forest Western Low Plateau,misc,0.0094654512
+Central Interior Broadleaf Forest Western Low Plateau,paper,0.0444579984
+Central Interior Broadleaf Forest Western Low Plateau,slash,0.25
+Central Interior Broadleaf Forest Western Low Plateau,residue,0.3
+Central Maine & Fundy Coast & Ebayment,softwood_lumber,0.15135269625
+Central Maine & Fundy Coast & Ebayment,hardwood_lumber,0.0208584378
+Central Maine & Fundy Coast & Ebayment,plywood,0
+Central Maine & Fundy Coast & Ebayment,osb,0
+Central Maine & Fundy Coast & Ebayment,nonstructural_panels,0
+Central Maine & Fundy Coast & Ebayment,misc,0
+Central Maine & Fundy Coast & Ebayment,paper,0.27778886595
+Central Maine & Fundy Coast & Ebayment,slash,0.25
+Central Maine & Fundy Coast & Ebayment,residue,0.3
+Central New Mexico,softwood_lumber,0.4115448189
+Central New Mexico,hardwood_lumber,7.14564e-05
+Central New Mexico,plywood,0
+Central New Mexico,osb,0
+Central New Mexico,nonstructural_panels,0.0015490026
+Central New Mexico,misc,0.0368347221
+Central New Mexico,paper,0
+Central New Mexico,slash,0.25
+Central New Mexico,residue,0.3
+Chihuahuan Semi-Desert,softwood_lumber,0.45
+Chihuahuan Semi-Desert,hardwood_lumber,0
+Chihuahuan Semi-Desert,plywood,0
+Chihuahuan Semi-Desert,osb,0
+Chihuahuan Semi-Desert,nonstructural_panels,0
+Chihuahuan Semi-Desert,misc,0
+Chihuahuan Semi-Desert,paper,0
+Chihuahuan Semi-Desert,slash,0.25
+Chihuahuan Semi-Desert,residue,0.3
+Colorado Plateau,softwood_lumber,0.26415909765
+Colorado Plateau,hardwood_lumber,0.01818947565
+Colorado Plateau,plywood,0
+Colorado Plateau,osb,0.144087723
+Colorado Plateau,nonstructural_panels,0.00918157815
+Colorado Plateau,misc,0.01438212555
+Colorado Plateau,paper,0
+Colorado Plateau,slash,0.25
+Colorado Plateau,residue,0.3
+Colorado River Canyon Lands,softwood_lumber,0.18040338585
+Colorado River Canyon Lands,hardwood_lumber,0.12795155955
+Colorado River Canyon Lands,plywood,0
+Colorado River Canyon Lands,osb,0.1221761844
+Colorado River Canyon Lands,nonstructural_panels,0.00723938535
+Colorado River Canyon Lands,misc,0.01222948485
+Colorado River Canyon Lands,paper,0
+Colorado River Canyon Lands,slash,0.25
+Colorado River Canyon Lands,residue,0.3
+Columbia Basin,softwood_lumber,0.389038398239038
+Columbia Basin,hardwood_lumber,0.00726364890726365
+Columbia Basin,plywood,0.0181125391681125
+Columbia Basin,osb,0
+Columbia Basin,nonstructural_panels,0.000810743850810744
+Columbia Basin,misc,0.00806161905806162
+Columbia Basin,paper,0.0267130507767131
+Columbia Basin,slash,0.25
+Columbia Basin,residue,0.3
+Cross Timbers and Prairie,softwood_lumber,0.10601586495
+Cross Timbers and Prairie,hardwood_lumber,0.20144737215
+Cross Timbers and Prairie,plywood,0.01094378895
+Cross Timbers and Prairie,osb,0
+Cross Timbers and Prairie,nonstructural_panels,0
+Cross Timbers and Prairie,misc,0.13159297395
+Cross Timbers and Prairie,paper,0
+Cross Timbers and Prairie,slash,0.25
+Cross Timbers and Prairie,residue,0.3
+Eastern Broadleaf Forest Cumberland Plateau & Valley,softwood_lumber,0.04438701225
+Eastern Broadleaf Forest Cumberland Plateau & Valley,hardwood_lumber,0.2925534294
+Eastern Broadleaf Forest Cumberland Plateau & Valley,plywood,0.0007417386
+Eastern Broadleaf Forest Cumberland Plateau & Valley,osb,0.0001997766
+Eastern Broadleaf Forest Cumberland Plateau & Valley,nonstructural_panels,0.0166311459
+Eastern Broadleaf Forest Cumberland Plateau & Valley,misc,0.06562465245
+Eastern Broadleaf Forest Cumberland Plateau & Valley,paper,0.0298622448
+Eastern Broadleaf Forest Cumberland Plateau & Valley,slash,0.25
+Eastern Broadleaf Forest Cumberland Plateau & Valley,residue,0.3
+Eastern Cascades,softwood_lumber,0.357415635242584
+Eastern Cascades,hardwood_lumber,0.00251389169748611
+Eastern Cascades,plywood,0.0445774036054226
+Eastern Cascades,osb,0
+Eastern Cascades,nonstructural_panels,0.000120282749879717
+Eastern Cascades,misc,0.00166028714833971
+Eastern Cascades,paper,0.0437124995562875
+Eastern Cascades,slash,0.25
+Eastern Cascades,residue,0.3
+Eastern Great Plains,softwood_lumber,0.0008708004008708
+Eastern Great Plains,hardwood_lumber,0.40931020255931
+Eastern Great Plains,plywood,0
+Eastern Great Plains,osb,0
+Eastern Great Plains,nonstructural_panels,0
+Eastern Great Plains,misc,0.039818997039819
+Eastern Great Plains,paper,0
+Eastern Great Plains,slash,0.25
+Eastern Great Plains,residue,0.3
+Erie & Ontario Lake Plain,softwood_lumber,0.0536075415
+Erie & Ontario Lake Plain,hardwood_lumber,0.32664613905
+Erie & Ontario Lake Plain,plywood,0
+Erie & Ontario Lake Plain,osb,0.0064018836
+Erie & Ontario Lake Plain,nonstructural_panels,0.00092755575
+Erie & Ontario Lake Plain,misc,0.00850553235
+Erie & Ontario Lake Plain,paper,0.05391134775
+Erie & Ontario Lake Plain,slash,0.25
+Erie & Ontario Lake Plain,residue,0.3
+Florida Coastal Plains Central Highlands,softwood_lumber,0.20188870065
+Florida Coastal Plains Central Highlands,hardwood_lumber,0.0023483898
+Florida Coastal Plains Central Highlands,plywood,0.0494309727
+Florida Coastal Plains Central Highlands,osb,0.00128577465
+Florida Coastal Plains Central Highlands,nonstructural_panels,0.00586739565
+Florida Coastal Plains Central Highlands,misc,0.04163323545
+Florida Coastal Plains Central Highlands,paper,0.1475455311
+Florida Coastal Plains Central Highlands,slash,0.25
+Florida Coastal Plains Central Highlands,residue,0.3
+Florida Everglades,softwood_lumber,0.0775904661
+Florida Everglades,hardwood_lumber,0
+Florida Everglades,plywood,0
+Florida Everglades,osb,0
+Florida Everglades,nonstructural_panels,0
+Florida Everglades,misc,0.04917529395
+Florida Everglades,paper,0.32323423995
+Florida Everglades,slash,0.25
+Florida Everglades,residue,0.3
+Great Divide Basin,softwood_lumber,0.182686615832687
+Great Divide Basin,hardwood_lumber,0.00125447760125448
+Great Divide Basin,plywood,0
+Great Divide Basin,osb,0
+Great Divide Basin,nonstructural_panels,0.000867595050867595
+Great Divide Basin,misc,0.265191311515191
+Great Divide Basin,paper,0
+Great Divide Basin,slash,0.25
+Great Divide Basin,residue,0.3
+Great Plains,softwood_lumber,0.4058291529
+Great Plains,hardwood_lumber,0.0003483171
+Great Plains,plywood,0
+Great Plains,osb,0
+Great Plains,nonstructural_panels,0.0026014509
+Great Plains,misc,0.0412210791
+Great Plains,paper,0
+Great Plains,slash,0.25
+Great Plains,residue,0.3
+Gulf Coastal Plain,softwood_lumber,0.20175874155
+Gulf Coastal Plain,hardwood_lumber,0.0252680364
+Gulf Coastal Plain,plywood,0.0881623647
+Gulf Coastal Plain,osb,0.0061753797
+Gulf Coastal Plain,nonstructural_panels,0.0055797948
+Gulf Coastal Plain,misc,0.0112388274
+Gulf Coastal Plain,paper,0.11181685545
+Gulf Coastal Plain,slash,0.25
+Gulf Coastal Plain,residue,0.3
+Idaho Batholith,softwood_lumber,0.43916828985
+Idaho Batholith,hardwood_lumber,0
+Idaho Batholith,plywood,0.00830746035
+Idaho Batholith,osb,0
+Idaho Batholith,nonstructural_panels,0.0002306646
+Idaho Batholith,misc,0.00207598005
+Idaho Batholith,paper,0.00021760515
+Idaho Batholith,slash,0.25
+Idaho Batholith,residue,0.3
+Laurentian Mixed Forest Arrowhead,softwood_lumber,0.08498172105
+Laurentian Mixed Forest Arrowhead,hardwood_lumber,0.0311182758
+Laurentian Mixed Forest Arrowhead,plywood,0
+Laurentian Mixed Forest Arrowhead,osb,0.3131482581
+Laurentian Mixed Forest Arrowhead,nonstructural_panels,0.02064898485
+Laurentian Mixed Forest Arrowhead,misc,0.0001027602
+Laurentian Mixed Forest Arrowhead,paper,0
+Laurentian Mixed Forest Arrowhead,slash,0.25
+Laurentian Mixed Forest Arrowhead,residue,0.3
+Laurentian Mixed Forest Green Bay Lobe,softwood_lumber,0.0880328894380329
+Laurentian Mixed Forest Green Bay Lobe,hardwood_lumber,0.258258394158258
+Laurentian Mixed Forest Green Bay Lobe,plywood,0.00349167825349168
+Laurentian Mixed Forest Green Bay Lobe,osb,0.0266156365766156
+Laurentian Mixed Forest Green Bay Lobe,nonstructural_panels,0.0250644618250645
+Laurentian Mixed Forest Green Bay Lobe,misc,0.0485369397485369
+Laurentian Mixed Forest Green Bay Lobe,paper,0
+Laurentian Mixed Forest Green Bay Lobe,slash,0.25
+Laurentian Mixed Forest Green Bay Lobe,residue,0.3
+Laurentian Mixed Forest MN & Ontario Lake Plain,softwood_lumber,0.077317004622683
+Laurentian Mixed Forest MN & Ontario Lake Plain,hardwood_lumber,0.039994026260006
+Laurentian Mixed Forest MN & Ontario Lake Plain,plywood,0
+Laurentian Mixed Forest MN & Ontario Lake Plain,osb,0.299838071400162
+Laurentian Mixed Forest MN & Ontario Lake Plain,nonstructural_panels,0.0196422659803577
+Laurentian Mixed Forest MN & Ontario Lake Plain,misc,0.00221157089778843
+Laurentian Mixed Forest MN & Ontario Lake Plain,paper,0.0109970608390029
+Laurentian Mixed Forest MN & Ontario Lake Plain,slash,0.25
+Laurentian Mixed Forest MN & Ontario Lake Plain,residue,0.3
+Laurentian Mixed Forest NLP/EUP,softwood_lumber,0.1027728972
+Laurentian Mixed Forest NLP/EUP,hardwood_lumber,0.155615652
+Laurentian Mixed Forest NLP/EUP,plywood,0.000580338
+Laurentian Mixed Forest NLP/EUP,osb,0.1652340618
+Laurentian Mixed Forest NLP/EUP,nonstructural_panels,0.0150088662
+Laurentian Mixed Forest NLP/EUP,misc,0.0107881848
+Laurentian Mixed Forest NLP/EUP,paper,0
+Laurentian Mixed Forest NLP/EUP,slash,0.25
+Laurentian Mixed Forest NLP/EUP,residue,0.3
+Laurentian Mixed Forest Northern Highlands,softwood_lumber,0.05541045975
+Laurentian Mixed Forest Northern Highlands,hardwood_lumber,0.17830375965
+Laurentian Mixed Forest Northern Highlands,plywood,0.001370286
+Laurentian Mixed Forest Northern Highlands,osb,0.1636583778
+Laurentian Mixed Forest Northern Highlands,nonstructural_panels,0.03175034535
+Laurentian Mixed Forest Northern Highlands,misc,0.01950677145
+Laurentian Mixed Forest Northern Highlands,paper,0
+Laurentian Mixed Forest Northern Highlands,slash,0.25
+Laurentian Mixed Forest Northern Highlands,residue,0.3
+Laurentian Mixed Forest Southern Superior,softwood_lumber,0.0707728802207729
+Laurentian Mixed Forest Southern Superior,hardwood_lumber,0.207422976807423
+Laurentian Mixed Forest Southern Superior,plywood,0.00228626055228626
+Laurentian Mixed Forest Southern Superior,osb,0.115378900315379
+Laurentian Mixed Forest Southern Superior,nonstructural_panels,0.0384102378384102
+Laurentian Mixed Forest Southern Superior,misc,0.0157287442657287
+Laurentian Mixed Forest Southern Superior,paper,0
+Laurentian Mixed Forest Southern Superior,slash,0.25
+Laurentian Mixed Forest Southern Superior,residue,0.3
+Laurentian Mixed Forest Western Superior & Lake Plains,softwood_lumber,0.0613124838
+Laurentian Mixed Forest Western Superior & Lake Plains,hardwood_lumber,0.08572560255
+Laurentian Mixed Forest Western Superior & Lake Plains,plywood,0.0004767048
+Laurentian Mixed Forest Western Superior & Lake Plains,osb,0.2750913324
+Laurentian Mixed Forest Western Superior & Lake Plains,nonstructural_panels,0.02450578635
+Laurentian Mixed Forest Western Superior & Lake Plains,misc,0.0028880901
+Laurentian Mixed Forest Western Superior & Lake Plains,paper,0
+Laurentian Mixed Forest Western Superior & Lake Plains,slash,0.25
+Laurentian Mixed Forest Western Superior & Lake Plains,residue,0.3
+Lower New England - Northern Appalachia,softwood_lumber,0.116051909019631
+Lower New England - Northern Appalachia,hardwood_lumber,0.125741414325445
+Lower New England - Northern Appalachia,plywood,0.00239635890143782
+Lower New England - Northern Appalachia,osb,3.43135800205882e-05
+Lower New England - Northern Appalachia,nonstructural_panels,0.0571078390842647
+Lower New England - Northern Appalachia,misc,0.00248919525149352
+Lower New England - Northern Appalachia,paper,0.146178969837707
+Lower New England - Northern Appalachia,slash,0.25
+Lower New England - Northern Appalachia,residue,0.3
+Modoc Plateau,softwood_lumber,0.33317568796673
+Modoc Plateau,hardwood_lumber,1.52592299938963e-05
+Modoc Plateau,plywood,0.114929952704028
+Modoc Plateau,osb,0
+Modoc Plateau,nonstructural_panels,5.92577999762969e-05
+Modoc Plateau,misc,0.000795410099681836
+Modoc Plateau,paper,0.00102443219959023
+Modoc Plateau,slash,0.25
+Modoc Plateau,residue,0.3
+Montana Rocky Mountains,softwood_lumber,0.356314223593106
+Montana Rocky Mountains,hardwood_lumber,2.80702349915789e-05
+Montana Rocky Mountains,plywood,0.0369985445889004
+Montana Rocky Mountains,osb,0
+Montana Rocky Mountains,nonstructural_panels,0.000385977599884207
+Montana Rocky Mountains,misc,0.0166181480950146
+Montana Rocky Mountains,paper,0.0396550358881035
+Montana Rocky Mountains,slash,0.25
+Montana Rocky Mountains,residue,0.3
+MS River Delta,softwood_lumber,0.1112207418
+MS River Delta,hardwood_lumber,0.1459459701
+MS River Delta,plywood,0.0426834054
+MS River Delta,osb,0.0276013116
+MS River Delta,nonstructural_panels,0.01707656985
+MS River Delta,misc,0.000457362
+MS River Delta,paper,0.10501463925
+MS River Delta,slash,0.25
+MS River Delta,residue,0.3
+MS River Mixed Forest,softwood_lumber,0.2359273653
+MS River Mixed Forest,hardwood_lumber,0.14329993365
+MS River Mixed Forest,plywood,0.02801816415
+MS River Mixed Forest,osb,0.0294221916
+MS River Mixed Forest,nonstructural_panels,0.007206615
+MS River Mixed Forest,misc,0.0001974753
+MS River Mixed Forest,paper,0.005928255
+MS River Mixed Forest,slash,0.25
+MS River Mixed Forest,residue,0.3
+MW Broadleaf Forest Central Till Plains,softwood_lumber,0.000591271199408729
+MW Broadleaf Forest Central Till Plains,hardwood_lumber,0.425672192274328
+MW Broadleaf Forest Central Till Plains,plywood,0
+MW Broadleaf Forest Central Till Plains,osb,0
+MW Broadleaf Forest Central Till Plains,nonstructural_panels,0.0206278478793722
+MW Broadleaf Forest Central Till Plains,misc,0.0027165973472834
+MW Broadleaf Forest Central Till Plains,paper,0.000392091299607909
+MW Broadleaf Forest Central Till Plains,slash,0.25
+MW Broadleaf Forest Central Till Plains,residue,0.3
+MW Broadleaf Forest Driftless & Morainal,softwood_lumber,0.0273185824718549
+MW Broadleaf Forest Driftless & Morainal,hardwood_lumber,0.334919428017936
+MW Broadleaf Forest Driftless & Morainal,plywood,2.59614900207692e-05
+MW Broadleaf Forest Driftless & Morainal,osb,0.0605252902984202
+MW Broadleaf Forest Driftless & Morainal,nonstructural_panels,0.0218485035174788
+MW Broadleaf Forest Driftless & Morainal,misc,0.00511927020409542
+MW Broadleaf Forest Driftless & Morainal,paper,0.000242964000194371
+MW Broadleaf Forest Driftless & Morainal,slash,0.25
+MW Broadleaf Forest Driftless & Morainal,residue,0.3
+MW Broadleaf Forest Great Lakes Morainal & Sands,softwood_lumber,0.1349519868
+MW Broadleaf Forest Great Lakes Morainal & Sands,hardwood_lumber,0.23733531945
+MW Broadleaf Forest Great Lakes Morainal & Sands,plywood,0
+MW Broadleaf Forest Great Lakes Morainal & Sands,osb,0.02666060055
+MW Broadleaf Forest Great Lakes Morainal & Sands,nonstructural_panels,0.0124701399
+MW Broadleaf Forest Great Lakes Morainal & Sands,misc,0.0385819533
+MW Broadleaf Forest Great Lakes Morainal & Sands,paper,0
+MW Broadleaf Forest Great Lakes Morainal & Sands,slash,0.25
+MW Broadleaf Forest Great Lakes Morainal & Sands,residue,0.3
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,softwood_lumber,0.01157995078842
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,hardwood_lumber,0.398411659401588
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,plywood,0
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,osb,0
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,nonstructural_panels,0.0350921776149078
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,misc,0.00491621219508379
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,paper,0
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,slash,0.25
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,residue,0.3
+North Central Great Plains,softwood_lumber,0.03254452605
+North Central Great Plains,hardwood_lumber,0.05128584525
+North Central Great Plains,plywood,0
+North Central Great Plains,osb,0
+North Central Great Plains,nonstructural_panels,0.0356690745
+North Central Great Plains,misc,0.3305005542
+North Central Great Plains,paper,0
+North Central Great Plains,slash,0.25
+North Central Great Plains,residue,0.3
+Northern Allegheny Plateau,softwood_lumber,0.0579756546
+Northern Allegheny Plateau,hardwood_lumber,0.2580247647
+Northern Allegheny Plateau,plywood,0
+Northern Allegheny Plateau,osb,0.01183454775
+Northern Allegheny Plateau,nonstructural_panels,0.0063361008
+Northern Allegheny Plateau,misc,0.04117986045
+Northern Allegheny Plateau,paper,0.0746490717
+Northern Allegheny Plateau,slash,0.25
+Northern Allegheny Plateau,residue,0.3
+Northern Atlantic Coastal Plain,softwood_lumber,0.27843246585
+Northern Atlantic Coastal Plain,hardwood_lumber,0.07373979855
+Northern Atlantic Coastal Plain,plywood,0.0372770307
+Northern Atlantic Coastal Plain,osb,0.02926461645
+Northern Atlantic Coastal Plain,nonstructural_panels,0.01457681625
+Northern Atlantic Coastal Plain,misc,0.001027062
+Northern Atlantic Coastal Plain,paper,0.0156822102
+Northern Atlantic Coastal Plain,slash,0.25
+Northern Atlantic Coastal Plain,residue,0.3
+Northern California Coast,softwood_lumber,0.436801863468959
+Northern California Coast,hardwood_lumber,9.689984997093e-06
+Northern California Coast,plywood,0.00843381764746986
+Northern California Coast,osb,0
+Northern California Coast,nonstructural_panels,0.00109947869967016
+Northern California Coast,misc,0.000426518099872045
+Northern California Coast,paper,0.00322863209903141
+Northern California Coast,slash,0.25
+Northern California Coast,residue,0.3
+Northern Great Plains,softwood_lumber,0.408875138058875
+Northern Great Plains,hardwood_lumber,0
+Northern Great Plains,plywood,0.000660784500660785
+Northern Great Plains,osb,0.000270274500270275
+Northern Great Plains,nonstructural_panels,6.44098500644099e-05
+Northern Great Plains,misc,0.00122118390122118
+Northern Great Plains,paper,0.0389082091889082
+Northern Great Plains,slash,0.25
+Northern Great Plains,residue,0.3
+Northern Rocky Mountains,softwood_lumber,0.314362909318564
+Northern Rocky Mountains,hardwood_lumber,3.59370449964063e-05
+Northern Rocky Mountains,plywood,0.0751887557924811
+Northern Rocky Mountains,osb,0
+Northern Rocky Mountains,nonstructural_panels,0.000867785849913221
+Northern Rocky Mountains,misc,0.0130813420486919
+Northern Rocky Mountains,paper,0.0464632699453537
+Northern Rocky Mountains,slash,0.25
+Northern Rocky Mountains,residue,0.3
+Northwest Cascades,softwood_lumber,0.3389680629
+Northwest Cascades,hardwood_lumber,0.01917757125
+Northwest Cascades,plywood,0.05126121135
+Northwest Cascades,osb,0
+Northwest Cascades,nonstructural_panels,0.0005708835
+Northwest Cascades,misc,0.0023753628
+Northwest Cascades,paper,0.0376469082
+Northwest Cascades,slash,0.25
+Northwest Cascades,residue,0.3
+Northwestern Basin and Range,softwood_lumber,0.3444365169
+Northwestern Basin and Range,hardwood_lumber,0
+Northwestern Basin and Range,plywood,0.10381681935
+Northwestern Basin and Range,osb,0
+Northwestern Basin and Range,nonstructural_panels,0.00014240745
+Northwestern Basin and Range,misc,0.0016042563
+Northwestern Basin and Range,paper,0
+Northwestern Basin and Range,slash,0.25
+Northwestern Basin and Range,residue,0.3
+Okanogan Highland,softwood_lumber,0.371224928328775
+Okanogan Highland,hardwood_lumber,0.0136786958863213
+Okanogan Highland,plywood,0.00756707264243293
+Okanogan Highland,osb,0
+Okanogan Highland,nonstructural_panels,0.000878500799121499
+Okanogan Highland,misc,0.0108732905891267
+Okanogan Highland,paper,0.0457775117542225
+Okanogan Highland,slash,0.25
+Okanogan Highland,residue,0.3
+Oregon and Washington Coast,softwood_lumber,0.327257031272743
+Oregon and Washington Coast,hardwood_lumber,0.0215765563284234
+Oregon and Washington Coast,plywood,0.0559685942440314
+Oregon and Washington Coast,osb,0
+Oregon and Washington Coast,nonstructural_panels,0.00336548024663452
+Oregon and Washington Coast,misc,0.00797621264202379
+Oregon and Washington Coast,paper,0.0338561252661439
+Oregon and Washington Coast,slash,0.25
+Oregon and Washington Coast,residue,0.3
+Ozark Broadleaf Forest-Meadow Boston Mountains,softwood_lumber,0.213635638563636
+Ozark Broadleaf Forest-Meadow Boston Mountains,hardwood_lumber,0.0572745506072746
+Ozark Broadleaf Forest-Meadow Boston Mountains,plywood,0.0524378448524378
+Ozark Broadleaf Forest-Meadow Boston Mountains,osb,0
+Ozark Broadleaf Forest-Meadow Boston Mountains,nonstructural_panels,0.00241004925241005
+Ozark Broadleaf Forest-Meadow Boston Mountains,misc,0.0053548029053548
+Ozark Broadleaf Forest-Meadow Boston Mountains,paper,0.118887113818887
+Ozark Broadleaf Forest-Meadow Boston Mountains,slash,0.25
+Ozark Broadleaf Forest-Meadow Boston Mountains,residue,0.3
+Prairie Parkland Central Till Plains & Grand Prairies,softwood_lumber,0.000255369600204296
+Prairie Parkland Central Till Plains & Grand Prairies,hardwood_lumber,0.403094685922476
+Prairie Parkland Central Till Plains & Grand Prairies,plywood,1.05953400084763e-05
+Prairie Parkland Central Till Plains & Grand Prairies,osb,0
+Prairie Parkland Central Till Plains & Grand Prairies,nonstructural_panels,0.0120029796096024
+Prairie Parkland Central Till Plains & Grand Prairies,misc,0.0299676226739741
+Prairie Parkland Central Till Plains & Grand Prairies,paper,0.004668746853735
+Prairie Parkland Central Till Plains & Grand Prairies,slash,0.25
+Prairie Parkland Central Till Plains & Grand Prairies,residue,0.3
+Prairie Parkland North Central Plains,softwood_lumber,0.001951443
+Prairie Parkland North Central Plains,hardwood_lumber,0.42540796845
+Prairie Parkland North Central Plains,plywood,0
+Prairie Parkland North Central Plains,osb,0
+Prairie Parkland North Central Plains,nonstructural_panels,0.0206977419
+Prairie Parkland North Central Plains,misc,0.00194284665
+Prairie Parkland North Central Plains,paper,0
+Prairie Parkland North Central Plains,slash,0.25
+Prairie Parkland North Central Plains,residue,0.3
+Prairie Parkland Red River Valley,softwood_lumber,0.0005820849
+Prairie Parkland Red River Valley,hardwood_lumber,0.02467178505
+Prairie Parkland Red River Valley,plywood,0
+Prairie Parkland Red River Valley,osb,0.39160456695
+Prairie Parkland Red River Valley,nonstructural_panels,0.0242121879
+Prairie Parkland Red River Valley,misc,0.0089293752
+Prairie Parkland Red River Valley,paper,0
+Prairie Parkland Red River Valley,slash,0.25
+Prairie Parkland Red River Valley,residue,0.3
+Puget Trough,softwood_lumber,0.3900373857
+Puget Trough,hardwood_lumber,0.02716020855
+Puget Trough,plywood,0.0077050332
+Puget Trough,osb,0
+Puget Trough,nonstructural_panels,0.0010063242
+Puget Trough,misc,0.00061052535
+Puget Trough,paper,0.023480523
+Puget Trough,slash,0.25
+Puget Trough,residue,0.3
+SE Middle Mixed Forest Arkansas Valley,softwood_lumber,0.1634226165
+SE Middle Mixed Forest Arkansas Valley,hardwood_lumber,0.0918761679
+SE Middle Mixed Forest Arkansas Valley,plywood,0.0269090127
+SE Middle Mixed Forest Arkansas Valley,osb,0
+SE Middle Mixed Forest Arkansas Valley,nonstructural_panels,0.00890563095
+SE Middle Mixed Forest Arkansas Valley,misc,0.00185254425
+SE Middle Mixed Forest Arkansas Valley,paper,0.1570340277
+SE Middle Mixed Forest Arkansas Valley,slash,0.25
+SE Middle Mixed Forest Arkansas Valley,residue,0.3
+SE Middle Mixed Forest Cumberland Plateau & Valley,softwood_lumber,0.141460640241461
+SE Middle Mixed Forest Cumberland Plateau & Valley,hardwood_lumber,0.0457818030457818
+SE Middle Mixed Forest Cumberland Plateau & Valley,plywood,0.0267318414267318
+SE Middle Mixed Forest Cumberland Plateau & Valley,osb,0.0033567975033568
+SE Middle Mixed Forest Cumberland Plateau & Valley,nonstructural_panels,0.00875917215875917
+SE Middle Mixed Forest Cumberland Plateau & Valley,misc,0.0436757080936757
+SE Middle Mixed Forest Cumberland Plateau & Valley,paper,0.180234037530234
+SE Middle Mixed Forest Cumberland Plateau & Valley,slash,0.25
+SE Middle Mixed Forest Cumberland Plateau & Valley,residue,0.3
+SE Middle Mixed Forest Piedmont,softwood_lumber,0.199000651249001
+SE Middle Mixed Forest Piedmont,hardwood_lumber,0.0762382337262382
+SE Middle Mixed Forest Piedmont,plywood,0.0411161472411162
+SE Middle Mixed Forest Piedmont,osb,0.0461993517461994
+SE Middle Mixed Forest Piedmont,nonstructural_panels,0.0117773149617773
+SE Middle Mixed Forest Piedmont,misc,0.00549437580549438
+SE Middle Mixed Forest Piedmont,paper,0.0701739252701739
+SE Middle Mixed Forest Piedmont,slash,0.25
+SE Middle Mixed Forest Piedmont,residue,0.3
+SE Middle Mixed Forest Western Mid Coastal Plains,softwood_lumber,0.188442500211557
+SE Middle Mixed Forest Western Mid Coastal Plains,hardwood_lumber,0.0322904906677095
+SE Middle Mixed Forest Western Mid Coastal Plains,plywood,0.098392979601607
+SE Middle Mixed Forest Western Mid Coastal Plains,osb,0.0090547946909452
+SE Middle Mixed Forest Western Mid Coastal Plains,nonstructural_panels,0.000912277349087723
+SE Middle Mixed Forest Western Mid Coastal Plains,misc,0.00211382234788618
+SE Middle Mixed Forest Western Mid Coastal Plains,paper,0.118793135131207
+SE Middle Mixed Forest Western Mid Coastal Plains,slash,0.25
+SE Middle Mixed Forest Western Mid Coastal Plains,residue,0.3
+Sierra Nevada,softwood_lumber,0.4382598735
+Sierra Nevada,hardwood_lumber,0
+Sierra Nevada,plywood,0.01127522205
+Sierra Nevada,osb,0
+Sierra Nevada,nonstructural_panels,0
+Sierra Nevada,misc,0.00046490445
+Sierra Nevada,paper,0
+Sierra Nevada,slash,0.25
+Sierra Nevada,residue,0.3
+Sierra Nevada Foothills,softwood_lumber,0.4469250825
+Sierra Nevada Foothills,hardwood_lumber,0
+Sierra Nevada Foothills,plywood,0.00163447425
+Sierra Nevada Foothills,osb,0
+Sierra Nevada Foothills,nonstructural_panels,0
+Sierra Nevada Foothills,misc,0.00082778895
+Sierra Nevada Foothills,paper,0.0006126543
+Sierra Nevada Foothills,slash,0.25
+Sierra Nevada Foothills,residue,0.3
+Snake River Basin,softwood_lumber,0.4340707965
+Snake River Basin,hardwood_lumber,0
+Snake River Basin,plywood,0
+Snake River Basin,osb,0
+Snake River Basin,nonstructural_panels,0
+Snake River Basin,misc,0.0159292035
+Snake River Basin,paper,0
+Snake River Basin,slash,0.25
+Snake River Basin,residue,0.3
+Southern Allegheny Plateau,softwood_lumber,0.0055617552
+Southern Allegheny Plateau,hardwood_lumber,0.35048581785
+Southern Allegheny Plateau,plywood,0
+Southern Allegheny Plateau,osb,0.0285448086
+Southern Allegheny Plateau,nonstructural_panels,0.01961282115
+Southern Allegheny Plateau,misc,0.0088287147
+Southern Allegheny Plateau,paper,0.0369660825
+Southern Allegheny Plateau,slash,0.25
+Southern Allegheny Plateau,residue,0.3
+Southern Cascades,softwood_lumber,0.31275493695
+Southern Cascades,hardwood_lumber,0.0029535705
+Southern Cascades,plywood,0.1246262274
+Southern Cascades,osb,0
+Southern Cascades,nonstructural_panels,0.00042534405
+Southern Cascades,misc,0.00248908185
+Southern Cascades,paper,0.00675083925
+Southern Cascades,slash,0.25
+Southern Cascades,residue,0.3
+Southern Rockies Front Range,softwood_lumber,0.39100336605
+Southern Rockies Front Range,hardwood_lumber,0.01000863
+Southern Rockies Front Range,plywood,0
+Southern Rockies Front Range,osb,0
+Southern Rockies Front Range,nonstructural_panels,0.0024164181
+Southern Rockies Front Range,misc,0.04657158585
+Southern Rockies Front Range,paper,0
+Southern Rockies Front Range,slash,0.25
+Southern Rockies Front Range,residue,0.3
+Southern Rocky Mountains,softwood_lumber,0.385148864185149
+Southern Rocky Mountains,hardwood_lumber,0.00511427475511428
+Southern Rocky Mountains,plywood,0
+Southern Rocky Mountains,osb,0.00157637880157638
+Southern Rocky Mountains,nonstructural_panels,0.003776003553776
+Southern Rocky Mountains,misc,0.0543844787043845
+Southern Rocky Mountains,paper,0
+Southern Rocky Mountains,slash,0.25
+Southern Rocky Mountains,residue,0.3
+Southwest High Plains,softwood_lumber,0.38303352405
+Southwest High Plains,hardwood_lumber,0
+Southwest High Plains,plywood,0
+Southwest High Plains,osb,0
+Southwest High Plains,nonstructural_panels,0.00669664755
+Southwest High Plains,misc,0.0602698284
+Southwest High Plains,paper,0
+Southwest High Plains,slash,0.25
+Southwest High Plains,residue,0.3
+Southwestern Rocky Mountains,softwood_lumber,0.2846554938
+Southwestern Rocky Mountains,hardwood_lumber,0.0315593208
+Southwestern Rocky Mountains,plywood,0
+Southwestern Rocky Mountains,osb,0.0868368726
+Southwestern Rocky Mountains,nonstructural_panels,0.0083793591
+Southwestern Rocky Mountains,misc,0.0385689537
+Southwestern Rocky Mountains,paper,0
+Southwestern Rocky Mountains,slash,0.25
+Southwestern Rocky Mountains,residue,0.3
+St Lawrence & Mohawk Valley,softwood_lumber,0.08700941745
+St Lawrence & Mohawk Valley,hardwood_lumber,0.1006703253
+St Lawrence & Mohawk Valley,plywood,0.00204154245
+St Lawrence & Mohawk Valley,osb,0.0002977407
+St Lawrence & Mohawk Valley,nonstructural_panels,0.00365235165
+St Lawrence & Mohawk Valley,misc,0.00257711895
+St Lawrence & Mohawk Valley,paper,0.2537515035
+St Lawrence & Mohawk Valley,slash,0.25
+St Lawrence & Mohawk Valley,residue,0.3
+Subtropical Prairie Parkland Gulf & Oak Prairie,softwood_lumber,0.203230043939031
+Subtropical Prairie Parkland Gulf & Oak Prairie,hardwood_lumber,0.0730931179280721
+Subtropical Prairie Parkland Gulf & Oak Prairie,plywood,0.172246622348326
+Subtropical Prairie Parkland Gulf & Oak Prairie,osb,0
+Subtropical Prairie Parkland Gulf & Oak Prairie,nonstructural_panels,1.94693849941592e-05
+Subtropical Prairie Parkland Gulf & Oak Prairie,misc,0.00141074639957678
+Subtropical Prairie Parkland Gulf & Oak Prairie,paper,0
+Subtropical Prairie Parkland Gulf & Oak Prairie,slash,0.25
+Subtropical Prairie Parkland Gulf & Oak Prairie,residue,0.3
+Utah Mountains,softwood_lumber,0.2494918845
+Utah Mountains,hardwood_lumber,0.0182910654
+Utah Mountains,plywood,0
+Utah Mountains,osb,0.1060195338
+Utah Mountains,nonstructural_panels,0.00944373645
+Utah Mountains,misc,0.06675377985
+Utah Mountains,paper,0
+Utah Mountains,slash,0.25
+Utah Mountains,residue,0.3
+Wasatch Range,softwood_lumber,0.216361305
+Wasatch Range,hardwood_lumber,0.05212984095
+Wasatch Range,plywood,0
+Wasatch Range,osb,0.1023221088
+Wasatch Range,nonstructural_panels,0.0086142762
+Wasatch Range,misc,0.07057246905
+Wasatch Range,paper,0
+Wasatch Range,slash,0.25
+Wasatch Range,residue,0.3
+Western Allegheny Plateau,softwood_lumber,0.01744116795
+Western Allegheny Plateau,hardwood_lumber,0.39798899685
+Western Allegheny Plateau,plywood,0
+Western Allegheny Plateau,osb,0
+Western Allegheny Plateau,nonstructural_panels,0.0011288997
+Western Allegheny Plateau,misc,0.00135901395
+Western Allegheny Plateau,paper,0.03208192155
+Western Allegheny Plateau,slash,0.25
+Western Allegheny Plateau,residue,0.3
+Western Basin and Range,softwood_lumber,0.41625
+Western Basin and Range,hardwood_lumber,0
+Western Basin and Range,plywood,0
+Western Basin and Range,osb,0
+Western Basin and Range,nonstructural_panels,0.003375
+Western Basin and Range,misc,0.030375
+Western Basin and Range,paper,0
+Western Basin and Range,slash,0.25
+Western Basin and Range,residue,0.3
+Western Great Plains,softwood_lumber,0.404255223045745
+Western Great Plains,hardwood_lumber,0.0014209019985791
+Western Great Plains,plywood,0
+Western Great Plains,osb,0.0050513035449487
+Western Great Plains,nonstructural_panels,0.00320792984679207
+Western Great Plains,misc,0.0335916620664083
+Western Great Plains,paper,0.00247297949752702
+Western Great Plains,slash,0.25
+Western Great Plains,residue,0.3
+White Mountains,softwood_lumber,0.159817993665982
+White Mountains,hardwood_lumber,0.0611367048061137
+White Mountains,plywood,0
+White Mountains,osb,0
+White Mountains,nonstructural_panels,1.0840455001084e-05
+White Mountains,misc,9.75640500097564e-05
+White Mountains,paper,0.228936897022894
+White Mountains,slash,0.25
+White Mountains,residue,0.3
+Willamette Valley,softwood_lumber,0.33359087025
+Willamette Valley,hardwood_lumber,0.01333188225
+Willamette Valley,plywood,0.0609045156
+Willamette Valley,osb,0
+Willamette Valley,nonstructural_panels,0.0006890913
+Willamette Valley,misc,0.0017607132
+Willamette Valley,paper,0.0397229274
+Willamette Valley,slash,0.25
+Willamette Valley,residue,0.3
+Yellowstone / Bighorn,softwood_lumber,0.3992300622
+Yellowstone / Bighorn,hardwood_lumber,0
+Yellowstone / Bighorn,plywood,0.0105000687
+Yellowstone / Bighorn,osb,0
+Yellowstone / Bighorn,nonstructural_panels,0.0004678002
+Yellowstone / Bighorn,misc,0.0339689412
+Yellowstone / Bighorn,paper,0.0058331277
+Yellowstone / Bighorn,slash,0.25
+Yellowstone / Bighorn,residue,0.3

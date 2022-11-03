@@ -1,0 +1,12 @@
+*.html
+*.png
+*.tiff
+*.o
+scratch.R
+scratch/*
+progress
+process
+
+inst/doc
+/doc/
+/Meta/
