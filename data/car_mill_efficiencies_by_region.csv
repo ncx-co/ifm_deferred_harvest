@@ -1,0 +1,58 @@
+"Source: Climate Action Reserve Assessment Area Data, Batch 2.2 (October 16, 2019), https://www.climateactionreserve.org/how/protocols/forest/assessment-area-data/",,,,,
+,,,,,
+,,,,,
+Mill Efficiencies By Region,,,,,
+,,,,,
+Region,States,Hardwood,,Softwood,
+,,Saw Log,Pulpwood,Saw Log,Pulpwood
+Northeast,Maine,0.614,0.65,0.569,0.513
+,New Hampshire,,,,
+,Vermont,,,,
+,Massachussetts,,,,
+,Rhode Island,,,,
+,Connecticut,,,,
+,Maryland,,,,
+,New Jersey,,,,
+,New York,,,,
+,Pennsylvania,,,,
+,Delaware,,,,
+,Ohio,,,,
+,West Virginia,,,,
+North Central: Northern Lake States (NLS),Michigan,0.585,0.685,0.63,0.514
+,Wisconsin,,,,
+,Minnesota,,,,
+North Central: Northern Prairie States (NPS,North Dakota,0.585,0.685,0.63,0.514
+,South Dakota,,,,
+,Nebraska,,,,
+,Kansas,,,,
+,Missouri,,,,
+,Iowa,,,,
+,Illinois,,,,
+,Indiana,,,,
+"Pacific Coast: Pacific Northwest, East (PWE)",Washington,0.0568,0.568,0.637,0.637
+,Oregon,,,,
+"Pacific Coast: Pacific Northwest, West (PWW)",Washington,0.531,0.531,0.74,0.5
+,Oregon,,,,
+Pacific Coast: Pacific Southwest (PSW),California,0.568,0.568,0.675,0.675
+"Rocky Mountain: Rocky Mountain, North (RMN)",Montana,0.568,0.568,0.704,0.704
+,Idaho,,,,
+"Rocky Mountain: Rocky Mountain, South (RMS)",Nevada,0.568,0.568,0.704,0.704
+,Arizona,,,,
+,New Mexico,,,,
+,Colorado,,,,
+,Utah,,,,
+,Wyoming,,,,
+South: Southeast (SE),Virginia,0.609,0.591,0.636,0.553
+,North Carolina,,,,
+,South Carolina,,,,
+,Georgia,,,,
+,Florida,,,,
+South: South Central (SC),Texas,0.587,0.581,0.629,0.57
+,Oklahoma,,,,
+,Arkansas,,,,
+,Louisiana,,,,
+,Mississippi,,,,
+,Alabama,,,,
+,Tennessee,,,,
+,Kentucky,,,,
+"West: Includes RMN, RMS, PWE, PSW except where stated otherwise",,0.568,0.568,,
