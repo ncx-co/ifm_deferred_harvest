@@ -86,13 +86,18 @@
 
 # 1 Introduction
 
-This document describes the methods for quantification and crediting of carbon dioxide-equivalent removals and avoided emissions through short-term forest harvest deferrals.
+This document describes the methods for quantification and crediting of carbon dioxide-equivalent removals and avoided emissions through targeted, short-term forest harvest deferrals. 
 
 This methodology describes the use of remote sensing data products and statistical models to estimate the impact of deferring timber harvests for one or more years. To create a project, the methodology can be applied to one or many properties. Quantification for individual properties and the entire project is done using spatially-explicit remote sensing data, and derived data products including estimates of forest carbon stocking, growth, and disturbance.
 
-The methodology uses tonne-year accounting, which is a method for quantifying the climate impact of a carbon project for any duration, in universal single-year units. One tonne-year equals one metric ton (MT) of CO2e, sequestered for one year. Tonne-year accounting can also be used to mitigate reversal risk when credits are created after the verified climate benefit has been fully delivered. Under this methodology, tonne-year credits are issued _ex post_ after the end of a harvest deferral activity period when the benefit has been verified. Therefore credits produced under this methodology are irreversible.
+This methodology uses tonne-year accounting to enumerate the creditable activity, which is harvest deferral. One tonne-year equals one metric ton (MT) of CO2, sequestered for one year. 
+
+Under this methodology, tonne-years are aggregated into credits according to the details of Section 1.2 (Quantification Approach) below.  These carbon credits are fungible units each of which represents the cumulative avoided emissions and/or removals from the project that mitigate the economic damages of one metric tonne of carbon dioxide (mtCO2E) emitted today. 
+
+ Credits are issued ex post after the end of a harvest deferral activity period when the benefit has been verified. Therefore the climate benefit of credits produced under this methodology is irreversible. 
 
 Projects developed under this methodology may include landholdings of any size, provided that some portion of the property includes forestland subject to timber harvesting during the activity period under the baseline scenario. All forest types under all ownership types may participate, if it can be demonstrated that the requirements and eligibility conditions, which are detailed below, can be met.
+
 
 ## 1.1 Baseline
 
@@ -104,10 +109,13 @@ Participants must confirm the accuracy of predictions of these baseline harvesti
 
 ## 1.2 Quantification Approach
 
-This methodology quantifies the GHG impact of harvesting less aboveground live tree biomass on participating properties during the activity period than would have been harvested under the baseline scenario. Reducing the amount of timber (biomass) harvested increases the average age of forests relative to the baseline scenario, as well as increasing total carbon storage and removal relative to the baseline scenario.
-This methodology focuses on the net climate benefit of delaying harvests for one year at a time. The ultimate goal of climate mitigation activities is to reduce the damages that occur from emitting excess carbon to the atmosphere. Impact of deferring harvest, and the costs of damages from emissions that would otherwise occur, is calculated by applying a discount rate[^1] [^2],to the perpetual stream of costs and benefits of reducing net carbon emissions.
+This methodology quantifies the climate benefit of delaying harvest on participating properties for one year at a time.  The amount of biomass deferred from harvest during the activity period that would have otherwise been harvested under the baseline scenario can be  denominated in tonne-years, the number of tonnes of CO2 stored for one year. In Equations 6 and 7 (Section 2.3.2.2), tonne-years are decomposed and carbon and time are both key parameters in the calculations to quantify climate impact. 
 
-Following Parisa et al[^3], this methodology calculates, using Equation 1, the difference between the discounted impacts of the baseline scenario with the project scenario. The difference between these–that is, the benefit of delaying harvest for one year–is the net benefit, denominated in mtC02E, of the project.
+The ultimate goal of climate mitigation is to reduce the environmental, social and economic damages that occur from emitting excess carbon to the atmosphere. The permanent stream of these damages is calculated using a discount rate
+[^1] [^2].
+
+Following Parisa et al[^3], this methodology uses Equation 1 to calculate the difference between the discounted impacts of the baseline scenario with the discounted impacts of the project scenario. The difference between these–that is, the benefit of delaying harvest for one year–is the net benefit, measured in mtCO2, of the project.
+
 
 The variables included in Equation 1 are the immediate and delayed emissions from harvest in both the project and baseline scenario.
 
@@ -124,16 +132,16 @@ Where:
 
 |                                |                                                                                       |
 | :----------------------------- | :------------------------------------------------------------------------------------ |
-| $\Omega$                       | total impact (mtCO2E)                                                                 |
-| $\Delta_{\text{baseline},\ i}$ | discounted impact of emissions in the baseline scenario (mtCO2E) for spatial unit $i$ |
-| $\Delta_{\text{project},\ i}$  | discounted impact of emissions in the project scenario (mtCO2E) for spatial unit $i$  |
+| $\Omega$                       | total impact (mtCO2, discounted to present value)                                                                 |
+| $\Delta_{\text{baseline},\ i}$ | discounted impact of emissions in the baseline scenario (mtCO2) for spatial unit $i$ |
+| $\Delta_{\text{project},\ i}$  | discounted impact of emissions in the project scenario (mtCO2) for spatial unit $i$  |
 | $l$                            | market leakage deduction factor                                                       |
 | $u$                            | uncertainty conservativeness factor                                                   |
 | $i$                            | index for spatial unit _i_ (e.g., cell, pixel, property)                              |
 | $N$                            | number of spatial units                                                               |
 
 ##
-
+The output of Equation 1,  $\Omega$ ,  are units each of which represents the cumulative avoided emissions and/or removals from the project that mitigate the economic damages of one metric tonne of carbon dioxide (mtCO2E) emitted today.
 ## 1.3 Transparency
 
 This methodology includes specific requirements for transparent reporting of key processes, parameters and metrics. Projects developed under this methodology must meet these requirements on an ongoing basis. Specific transparency requirements can be found in [Section 3.2](#32-transparency-and-performance-guidelines).
