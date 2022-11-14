@@ -69,7 +69,8 @@
       - [mtC02E](#mtc02e)
       - [Participating property](#participating-property)
       - [Persistent carbon](#persistent-carbon)
-      - [Project proponent or participant](#project-proponent-or-participant)
+      - [Project participant or Participant](#project-proponent-or-participant)
+      - [Project proponent](#project-participant)
       - [Shrubs/subshrubs/woody vines](#shrubssubshrubswoody-vines)
       - [Stump](#stump)
       - [Timber](#timber)
@@ -603,9 +604,13 @@ Forested area meeting the applicability conditions under [Section 4](#4-requirem
 
 Additional carbon generated through one or more years of harvest deferral that cannot reasonably be expected to be harvested at a future date due to operational constraints.
 
-#### Project proponent or participant
+#### Project participant or Participant
 
 A party who has the right, without the consent of any third party (or in the case of an authorized representative of the legal owner(s), without any further permission or consent from the legal owner(s), to (i) harvest, or defer the harvest of, the timber on all land within the participating property, subject to constraints within the municipality, county, state, and/or country in which such property is located and applicable state and federal environmental law and regulations, and (ii) sell to a third party all environmental attributes and rights to make environmental claims related to such harvest or deferred harvest. It is understood that such rights may be held by different types of parties, including but not limited to property managers, timber rights owners, fee simple owners, and holders of any other form of land tenure that includes the rights specified herein. In the case of privately-owned forests in the U.S., the most common relevant form of tenure would typically be fee simple ownership evidenced by possession of title to the asset.
+
+#### Project proponent
+
+The individual or organization who the person is responsible for carrying out a project and has the legal right to do so. Unless otherwise stated, project proponents are the de facto owners of credits produced.
 
 #### Shrubs/subshrubs/woody vines
 
@@ -691,13 +696,13 @@ between discounted emissions in baseline scenario and project scenario.
 
 Additional requirements:
 
-Project developers must produce a Model Design Document and associated quantitative benchmarking data for each model and activity period (see [Appendix B](#appendix-b-model-cards)).
+Project proponents must produce a Model Design Document and associated quantitative benchmarking data for each model and activity period (see [Appendix B](#appendix-b-model-cards)).
 A spatially explicit definition of forest, or defined forest “mask” layer, if applicable, should be included.
 
 Growth rate documentation (if not using package data):
 -data source
 -stratification applied
--the project developer should identify undisturbed plots, and compute the growth rate in terms of plot-level change in aboveground live tree biomass
+-the project proponent should identify undisturbed plots, and compute the growth rate in terms of plot-level change in aboveground live tree biomass
 
 Cruising protocols, sampling details, plot audit procedures, and the application of field data within project accounting.
 
