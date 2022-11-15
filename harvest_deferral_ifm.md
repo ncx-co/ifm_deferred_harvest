@@ -149,8 +149,7 @@ This methodology includes specific requirements for transparent reporting of key
 
 ## 1.4 Verification
 
-All projects will be verified within 12 months of a completed deferral period, following the NCA Verification Procedures and Protocol.
-
+All projects will be verified within 12 months of a completed deferral period.
 <br/>
 <br/>
 
