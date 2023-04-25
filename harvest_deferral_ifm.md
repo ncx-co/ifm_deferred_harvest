@@ -120,7 +120,7 @@ Following Parisa et al[^3], this methodology uses Equation 1 to calculate the di
 
 The variables included in Equation 1 are the immediate and delayed emissions from harvest in both the project and baseline scenario.
 
-$$\Omega  = \mathcal{U}( (1 - l) \sum_{n=1}^N (\Delta_{\text{baseline},\ i} - \Delta_{\text{project},\ i}) )$$
+$$\Omega  = \mathcal{U}\left (1 - l) \sum_{n=1}^N (\Delta_{\text{baseline},\ i} - \Delta_{\text{project},\ i}) \right$$
 
 [//]: # "DEV: this is intentionally NOT a header, as then the auto-toc will add, including right aligned formatting"
 
