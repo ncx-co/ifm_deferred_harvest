@@ -120,7 +120,7 @@ Following Parisa et al[^3], this methodology uses Equation 1 to calculate the di
 
 The variables included in Equation 1 are the immediate and delayed emissions from harvest in both the project and baseline scenario.
 
-$$\Omega  = \mathcal{U}{ (1 - l) \sum_{n=1}^N (\Delta_{\text{baseline},\ i} - \Delta_{\text{project},\ i}) }$$
+$$\Omega  = \mathcal{U}( (1 - l) \sum_{n=1}^N (\Delta_{\text{baseline},\ i} - \Delta_{\text{project},\ i}) )$$
 
 [//]: # "DEV: this is intentionally NOT a header, as then the auto-toc will add, including right aligned formatting"
 
@@ -307,6 +307,10 @@ $l$ = 0.2
 ### 2.3.4 Conservative Uncertainty Function
 
 Full project uncertainty integrates the uncertainty in forest inventory estimates as well as uncertainty in the baseline and project scenarios. This methodology requires the full, explicit propagation of that uncertainty into a final uncertainty distribution that characterizes belief about the true total climate impact of the project (denominated in units that correspond to the mitigation of economic damages associated with emitting one metric tonne of C02 today). To account conservatively for the uncertainty, this credits are issued at the 33rd percentile of this uncertainty distribution. That is, given some distribution $\mathrm{D}$ of probable impact, the conservative uncertainty function $\mathcal{U}(\mathrm{D})$ is defined as the 33rd percentile of $\mathrm{D}$.
+
+$$\mathcal{U}(\mathrm{D}) = \mathrm{quantile}(\mathrm{D}, 0.33)$$
+
+<a name="equation9"><div align="right">(Equation 9)</div></a>
 
 This function is applied to the uncertainty distribution $\mathrm{D}$ for each activity period and is calculated at the project scale, aggregating all enrolled properties.
 
