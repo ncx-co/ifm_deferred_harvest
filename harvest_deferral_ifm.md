@@ -306,9 +306,9 @@ $l$ = 0.2
 
 ### 2.3.4 Conservative Uncertainty Function
 
-Full project uncertainty integrates the uncertainty in forest inventory estimates as well as uncertainty in the baseline and project scenarios. This methodology requires the full, explicit propagation of that uncertainty into a final uncertainty distribution that characterizes belief about the true total climate impact of the project (denominated in units that correspond to the mitigation of economic damages associated with emitting one metric tonne of C02 today). To account conservatively for the uncertainty, this credits are issued at the 33rd percentile of this uncertainty distribution. That is, given some distribution D of probable impact, the conservative uncertainty function $\mathcal{U}(\mathrm{D})$ is defined as the 33rd percentile of $D$
+Full project uncertainty integrates the uncertainty in forest inventory estimates as well as uncertainty in the baseline and project scenarios. This methodology requires the full, explicit propagation of that uncertainty into a final uncertainty distribution that characterizes belief about the true total climate impact of the project (denominated in units that correspond to the mitigation of economic damages associated with emitting one metric tonne of C02 today). To account conservatively for the uncertainty, this credits are issued at the 33rd percentile of this uncertainty distribution. That is, given some distribution $\mathrm{D}$ of probable impact, the conservative uncertainty function $\mathcal{U}(\mathrm{D})$ is defined as the 33rd percentile of $\mathrm{D}$.
 
-This function is applied to the uncertainty distribution D for each activity period and is calculated at the project scale, aggregating all enrolled properties.
+This function is applied to the uncertainty distribution $\mathrm{D}$ for each activity period and is calculated at the project scale, aggregating all enrolled properties.
 
 # 3 Measurements, Models and Benchmarking
 
@@ -635,10 +635,11 @@ during project.
 | A8     | Number of Enrolled Properties (Activity End)                                       |
 | A9     | Leakage Deduction Factor $( l)$                                                    |
 | A10    | Rate at Which to Discount Future Emissions $(\rho)$                                |
-| A11    | Uncertainty of Final Credits $(\chi)$                                              |
+| A11    | Median of Uncertainty Distribution of Final Impact $(m)$                           |
+| A12    | Mean of Uncertainty Distribution of Final Impact $(\mu)$                           |
 | A13    | Discounted Impact of Emissions in the Baseline Scenario $(\Delta_\text{baseline})$ |
 | A14    | Discounted Impact of Emissions in the Project Scenario $(\Delta_\text{project})$   |
-| A15    | Total Impact $(\Omega)$                                                            |
+| A15    | Total Impact After Applying Conservative Uncertainty Function $(\Omega)$           |
 
 #### B. Property Eligibility
 
