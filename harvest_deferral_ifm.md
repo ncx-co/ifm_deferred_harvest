@@ -32,7 +32,7 @@
       - [2.3.2.2 Deferral Emissions](#2322-deferral-emissions)
       - [2.3.2.3 Deferral Sequestration](#2323-deferral-sequestration)
     - [2.3.3 Market Leakage](#233-market-leakage)
-    - [2.3.4 Uncertainty Conservativeness Factor](#234-uncertainty-conservativeness-factor)
+    - [2.3.4 Conservative Uncertainty Accounting](#234-conservative-uncertainty-accounting)
 - [3 Measurements, Models and Benchmarking](#3-measurements-models-and-benchmarking)
   - [3.1 Variables](#31-variables)
     - [3.1.1 Carbon Stocks Held in the Aboveground Live Tree Biomass at the Beginning of the Activity Period](#311-carbon-stocks-held-in-the-aboveground-live-tree-biomass-at-the-beginning-of-the-activity-period)
@@ -120,7 +120,7 @@ Following Parisa et al[^3], this methodology uses Equation 1 to calculate the di
 
 The variables included in Equation 1 are the immediate and delayed emissions from harvest in both the project and baseline scenario.
 
-$$\Omega  = u (1 - l) \sum_{n=1}^N (\Delta_{\text{baseline},\ i} - \Delta_{\text{project},\ i})$$
+$$\Omega  = \mathcal{U}\left( (1 - l) \sum_{n=1}^N (\Delta_{\text{baseline},\ i} - \Delta_{\text{project},\ i}) \right)$$
 
 [//]: # "DEV: this is intentionally NOT a header, as then the auto-toc will add, including right aligned formatting"
 
@@ -137,7 +137,7 @@ Where:
 | $\Delta_{\text{baseline},\ i}$ | discounted impact of emissions in the baseline scenario (mtCO2) for spatial unit $i$ |
 | $\Delta_{\text{project},\ i}$  | discounted impact of emissions in the project scenario (mtCO2) for spatial unit $i$  |
 | $l$                            | market leakage deduction factor                                                       |
-| $u$                            | uncertainty conservativeness factor                                                   |
+| $\mathcal{U}$                  | conservative uncertainty function                                                     |
 | $i$                            | index for spatial unit _i_ (e.g., cell, pixel, property)                              |
 | $N$                            | number of spatial units                                                               |
 
@@ -304,30 +304,15 @@ Activity shifting leakage is assumed to be zero because owners/managers must enr
 
 $l$ = 0.2
 
-### 2.3.4 Uncertainty Conservativeness Factor
+### 2.3.4 Conservative Uncertainty Function
 
-Full project uncertainty integrates the uncertainty in forest inventory estimates as well as uncertainty in the baseline and project scenarios. This results in a robust and comprehensive uncertainty estimate. Equation 9 provides the Uncertainty Conservativeness Factor using a continuous function defined for all values.
+Full project uncertainty integrates the uncertainty in forest inventory estimates as well as uncertainty in the baseline and project scenarios. This methodology requires the full, explicit propagation of that uncertainty into a final uncertainty distribution that characterizes belief about the true total climate impact of the project (denominated in units that correspond to the mitigation of economic damages associated with emitting one metric tonne of C02 today). To account conservatively for the uncertainty, this credits are issued at the 33rd percentile of this uncertainty distribution. That is, given some distribution $\mathrm{D}$ of probable impact, the conservative uncertainty function $\mathcal{U}(\mathrm{D})$ is defined as the 33rd percentile of $\mathrm{D}$.
 
-Conservativeness factors for each activity period are calculated at the project scale, aggregating all enrolled properties.
-
-They are calculated using the equation:
-
-$$u  = \dfrac{1}{1 + \exp(-3.502478 + 3.851745 x)}$$
+$$\mathcal{U}(\mathrm{D}) = \mathrm{quantile}(\mathrm{D}, 0.33)$$
 
 <a name="equation9"><div align="right">(Equation 9)</div></a>
 
-<br/>
-<br/>
-
-where:
-
-|     |                                                                                                                                                                                                                                                                     |
-| :-- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| $u$ | conservativeness factor                                                                                                                                                                                                                                             |
-| $x$ | ratio of the halfwidth of the 95\% uncertainty interval to the median value[^4] of the differences in baseline and project scenarios, defined as: $\sum\limits_{i = 1}^N (\Delta_{\text{baseline}, i}  - \Delta_{\text{project}, i})$ from [Equation 1](#equation1) |
-
-<br/>
-<br/>
+This function is applied to the uncertainty distribution $\mathrm{D}$ for each activity period and is calculated at the project scale, aggregating all enrolled properties.
 
 # 3 Measurements, Models and Benchmarking
 
@@ -341,7 +326,7 @@ Variable: $C$
 
 Estimation guidelines:
 
-Above ground live tree biomass may be quantified using remote-sensing derived data products and/or statistical models. Plot-based field data from participating properties may also be used. Biomass models must provide principled uncertainty quantification that can be propagated forward to inform the project-level Uncertainty Conservativeness Factor. Uncertainty must be propagated through to calculate that value as defined in [Section 2.3.4](#234-uncertainty-conservativeness-factor)
+Above ground live tree biomass may be quantified using remote-sensing derived data products and/or statistical models. Plot-based field data from participating properties may also be used. Biomass models must provide principled uncertainty quantification that can be propagated forward to inform the project-level uncertainty distribution such as can be input to the uncertainty conservativeness function as defined in [Section 2.3.4](#234-conservative-uncertainty-function)
 
 ### 3.1.2 Carbon at Risk of Harvest at the Beginning of the Activity Period
 
@@ -349,8 +334,7 @@ Variable: $\tilde{r}$
 
 Estimation guidelines:
 
-The methodology does not prescribe a specific model or model form to estimate the predicted removal of carbon under the baseline scenario for the activity period. Project developers are expected to develop and transparently benchmark models to predict the baseline scenario (see [Section 3.2](#32-transparency-and-performance-guidelines)), and thereby to determine the credible activity incentivized by the project. These models should reflect best available statistical techniques, robust datasets, and associated quantification of uncertainty to develop the appropriate Uncertainty Conservativeness Factors for the project. Uncertainty must be propagated through to
-calculate that value as defined in [Section 2.3.4](#234-uncertainty-conservativeness-factor)
+The methodology does not prescribe a specific model or model form to estimate the predicted removal of carbon under the baseline scenario for the activity period. Project developers are expected to develop and transparently benchmark models to predict the baseline scenario (see [Section 3.2](#32-transparency-and-performance-guidelines)), and thereby to determine the credible activity incentivized by the project. These models should reflect best available statistical techniques, robust datasets, and associated quantification of uncertainty to produce correct input for the conservative uncertainty function as defined in [Section 2.3.4](#234-conservative-uncertainty-function)
 
 Models should also be spatially explicit, able to be applied at spatial scales finer than that of individual participating properties, and predictions subsequently summed for individual properties and across the overall project.
 
@@ -374,7 +358,7 @@ Variable: $r$
 
 Estimation guidelines:
 
-The proportion of carbon stocks removed during the project period may be quantified using remote-sensing derived data products and/or statistical models combining remotely sensed data with plot-based field samples. Estimates should be spatially explicit and cover the entire eligible area of all enrolled properties, as per Eligibility criteria. Models must be structured to propagate uncertainty from these values into the project-level Uncertainty Conservativeness Factor. Uncertainty must be propagated through to calculate that value as defined in [Section 2.3.4](#234-uncertainty-conservativeness-factor)
+The proportion of carbon stocks removed during the project period may be quantified using remote-sensing derived data products and/or statistical models combining remotely sensed data with plot-based field samples. Estimates should be spatially explicit and cover the entire eligible area of all enrolled properties, as per Eligibility criteria. Models must be structured to propagate uncertainty from these values into a project-level uncertainty distribution such as can be input to the conservative uncertainty function as defined in [Section 2.3.4](#234-conservative-uncertainty-function)
 
 ### 3.1.4 Rate of Growth in Aboveground Live Tree Biomass
 
@@ -655,11 +639,11 @@ during project.
 | A8     | Number of Enrolled Properties (Activity End)                                       |
 | A9     | Leakage Deduction Factor $( l)$                                                    |
 | A10    | Rate at Which to Discount Future Emissions $(\rho)$                                |
-| A11    | Uncertainty of Final Credits $(\chi)$                                              |
-| A12    | Uncertainty Conservativeness Factor $(u)$                                          |
+| A11    | Median of Uncertainty Distribution of Final Impact $(m)$                           |
+| A12    | Mean of Uncertainty Distribution of Final Impact $(\mu)$                           |
 | A13    | Discounted Impact of Emissions in the Baseline Scenario $(\Delta_\text{baseline})$ |
 | A14    | Discounted Impact of Emissions in the Project Scenario $(\Delta_\text{project})$   |
-| A15    | Total Impact $(\Omega)$                                                            |
+| A15    | Total Impact After Applying Conservative Uncertainty Function $(\Omega)$           |
 
 #### B. Property Eligibility
 
